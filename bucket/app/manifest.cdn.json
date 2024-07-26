@@ -1,14 +1,14 @@
 {
-  "name": "My Blog",
+  "name": "SWAGYO",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Swagyo.com",
+  "description": "The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping related and many more",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://www.swagyo.com/?utm_source=homescreen",
+  "scope": "https://www.swagyo.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "name": "SWAGYO NEWS",
+      "short_name": "News",
+      "description": "The best news updates with tech & information.",
+      "url": "https://www.swagyo.com/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "name": "SWAGYO SHOP",
+      "short_name": "Shop",
+      "description": "The Best Shopping 🛒 with offers & deals.",
+      "url": "https://www.swagyo.com/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",

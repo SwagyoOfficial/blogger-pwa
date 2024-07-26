@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "SWAGYO",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Swagyo.com",
+  "description": "The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping related and many more",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
@@ -116,9 +116,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
+      "name": "SWAGYO NEWS",
+      "short_name": "News",
+      "description": "The best news updates with tech & information.",
       "url": "/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
@@ -128,9 +128,9 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
+      "name": "SWAGYO SHOP",
+      "short_name": "Shop",
+      "description": "The Best Shopping 🛒 with offers & deals.",
       "url": "/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
