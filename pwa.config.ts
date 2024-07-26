@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'SWAGYO',
+  shortName: 'Swagyo.com',
+  description: 'The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping related and many more',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -18,15 +18,15 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
+      name: 'SWAGYO NEWS',
+      shortName: 'News',
+      description: 'The best news updates with tech & information.',
       url: '/search/label/shortcut-1?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
+      name: 'SWAGYO SHOP',
+      shortName: 'Shop',
+      description: 'The Best Shopping 🛒 with offers & deals.',
       url: '/search/label/shortcut-2?utm_source=homescreen',
     },
   ],
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.swagyo.com',
 } satisfies Config;
