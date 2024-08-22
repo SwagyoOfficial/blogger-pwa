@@ -4,7 +4,7 @@ export default {
   version: '1.0',
   id: '/',
   name: 'SWAGYO',
-  shortName: 'Swagyo.com',
+  shortName: 'Swagyo',
   description: 'The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping related and many more',
   direction: 'auto',
   language: 'en-US',
