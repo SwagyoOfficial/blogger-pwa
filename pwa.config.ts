@@ -8,7 +8,7 @@ export default {
   description: 'The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping Crypto related and many more',
   direction: 'auto',
   language: 'en-US',
-  backgroundColor: '#A8D5E3',
+  backgroundColor: '#F2F0EA',
   themeColor: '#F2F0EA',
   display: 'standalone',
   orientation: 'any',
@@ -27,7 +27,7 @@ export default {
       name: 'SWAGYO SHOP',
       shortName: 'Shop',
       description: 'The Best Shopping 🛒 with offers & deals.',
-      url: 'https://shop.swagyo.com?utm_source=homescreen',
+      url: 'https://shop.swagyo.com/',
     },
   ],
   pwa: {
