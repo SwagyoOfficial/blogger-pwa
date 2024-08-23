@@ -2,7 +2,7 @@
   "name": "SWAGYO",
   "id": "/",
   "short_name": "Swagyo",
-  "description": "The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping related and many more",
+  "description": "The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping Crypto related and many more",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
@@ -11,8 +11,8 @@
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#A8D5E3",
+  "theme_color": "#F2F0EA",
   "icons": [
     {
       "src": "icons/favicon.ico",
@@ -119,7 +119,7 @@
       "name": "SWAGYO NEWS",
       "short_name": "News",
       "description": "The best news updates with tech & information.",
-      "url": "/search/label/shortcut-1?utm_source=homescreen",
+      "url": "/search/label/News?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "SWAGYO SHOP",
       "short_name": "Shop",
       "description": "The Best Shopping 🛒 with offers & deals.",
-      "url": "/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://shop.swagyo.com?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
