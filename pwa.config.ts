@@ -8,7 +8,7 @@ export default {
   description: 'The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping Crypto related and many more',
   direction: 'auto',
   language: 'en-US',
-  backgroundColor: '#F2F0EA',
+  backgroundColor: '#2293c7',
   themeColor: '#5EBEC4',
   display: 'standalone',
   orientation: 'any',
