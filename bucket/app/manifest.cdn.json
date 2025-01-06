@@ -11,7 +11,7 @@
   "scope": "https://www.swagyo.com/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#F2F0EA",
+  "background_color": "#2293c7",
   "theme_color": "#5EBEC4",
   "icons": [
     {
