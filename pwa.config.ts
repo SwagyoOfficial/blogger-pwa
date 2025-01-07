@@ -9,7 +9,7 @@ export default {
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#2293c7',
-  themeColor: '#5EBEC4',
+  themeColor: '#111212',
   display: 'standalone',
   orientation: 'any',
   scope: '/',
