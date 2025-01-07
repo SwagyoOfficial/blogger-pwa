@@ -27,7 +27,7 @@ export default {
       name: 'SWAGYO SHOP',
       shortName: 'Shop',
       description: 'The Best Shopping 🛒 with offers & deals.',
-      url: 'https://shop.swagyo.com/',
+      url: 'https://shop.swagyo.com?utm_source=homescreen',
     },
   ],
   pwa: {
