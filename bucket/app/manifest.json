@@ -131,7 +131,7 @@
       "name": "SWAGYO SHOP",
       "short_name": "Shop",
       "description": "The Best Shopping 🛒 with offers & deals.",
-      "url": "https://shop.swagyo.com/",
+      "url": "https://shop.swagyo.com?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
