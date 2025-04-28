@@ -11,8 +11,8 @@
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#2293c7",
-  "theme_color": "#111212",
+  "background_color": "#121212",
+  "theme_color": "#E5C100",
   "icons": [
     {
       "src": "icons/favicon.ico",
@@ -131,7 +131,7 @@
       "name": "SWAGYO SHOP",
       "short_name": "Shop",
       "description": "The Best Shopping 🛒 with offers & deals.",
-      "url": "https://shop.swagyo.com?utm_source=homescreen",
+      "url": "/search/label/Shop?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
